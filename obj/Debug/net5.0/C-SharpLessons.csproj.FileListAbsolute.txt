@@ -1,0 +1,16 @@
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\obj\Debug\net5.0\C-SharpLessons.csprojAssemblyReference.cache
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\obj\Debug\net5.0\C-SharpLessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\obj\Debug\net5.0\C-SharpLessons.AssemblyInfoInputs.cache
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\obj\Debug\net5.0\C-SharpLessons.AssemblyInfo.cs
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\obj\Debug\net5.0\C-SharpLessons.csproj.CoreCompileInputs.cache
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\bin\Debug\net5.0\C-SharpLessons.exe
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\bin\Debug\net5.0\C-SharpLessons.deps.json
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\bin\Debug\net5.0\C-SharpLessons.runtimeconfig.json
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\bin\Debug\net5.0\C-SharpLessons.runtimeconfig.dev.json
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\bin\Debug\net5.0\C-SharpLessons.dll
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\bin\Debug\net5.0\ref\C-SharpLessons.dll
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\bin\Debug\net5.0\C-SharpLessons.pdb
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\obj\Debug\net5.0\C-SharpLessons.dll
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\obj\Debug\net5.0\ref\C-SharpLessons.dll
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\obj\Debug\net5.0\C-SharpLessons.pdb
+C:\Users\17807\Desktop\WarmUIps\C-SharpLessons\obj\Debug\net5.0\C-SharpLessons.genruntimeconfig.cache
