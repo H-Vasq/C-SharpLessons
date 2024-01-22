@@ -6,7 +6,7 @@ namespace Conditionals
     {
         static void Main(string[] args)
         {
-            int theVal = 50;
+            int theVal = 20;
 
             if (theVal == 50) {
                 Console.WriteLine("theVal is 50");
