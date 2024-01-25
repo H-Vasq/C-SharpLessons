@@ -1,19 +1,17 @@
 ﻿using System;
 
-namespace Conditionals
+namespace Operators
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int theVal = 20;
+            int x = 10, y = 5;
+            string a="abcd", b = "efgh";
 
-            if (theVal == 50) {
-                Console.WriteLine("theVal is 50");
-            }
-            else {
-                Console.WriteLine("theVal is something else");
-            }
+            // Console.WriteLine("------Basic Math------");
+            // Console.WriteLine((x / y) * x);
+            // Console.WriteLine(a + b);
         }
     }
 }
