@@ -1,17 +1,28 @@
 ﻿using System;
 
-namespace Operators
+namespace Arrays
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int x = 10, y = 5;
-            string a="abcd", b = "efgh";
+            string sun = "sunday";
+            string mon = "monday";
 
-            Console.WriteLine("------Basic Math------");
-            Console.WriteLine((x / y) * x);
-            Console.WriteLine(a + b);
+            string[] days = new string[]
+            {
+                "Sunday",
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+            };
+
+        Console.WriteLine(days[0]);
+        Console.WriteLine(days[1]);
+        Console.WriteLine(days[2]);
         }
     }
 }
