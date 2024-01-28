@@ -23,6 +23,20 @@ namespace Arrays
         Console.WriteLine(days[0]);
         Console.WriteLine(days[1]);
         Console.WriteLine(days[2]);
+
+        string[] daysNew;
+        daysNew = new string[7];
+        daysNew[0] = "Sunday";
+        daysNew[1] = "Moday";
+        daysNew[2] = "Tuesday";
+        Console.Write(daysNew[0]);
+        Console.Write(daysNew[1]);
+        Console.Write(daysNew[2]);
+        Console.WriteLine();
+
+        int length = daysNew.Length;
+        Console.WriteLine(length);
+
         }
     }
 }
