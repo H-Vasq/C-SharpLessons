@@ -32,6 +32,11 @@ namespace Arrays
         Console.Write(daysNew[0]);
         Console.Write(daysNew[1]);
         Console.Write(daysNew[2]);
+        Console.WriteLine();
+
+        int length = daysNew.Length;
+        Console.WriteLine(length);
+
         }
     }
 }
