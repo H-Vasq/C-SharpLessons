@@ -1,42 +1,21 @@
-﻿using System;
+using System;
 
-namespace Arrays
+namespace ConditionaloOps
 {
     class Program
-    {
+    (
         static void Main(string[] args)
         {
-            string sun = "sunday";
-            string mon = "monday";
+            int the Val = 50;
 
-            string[] days = new string[]
-            {
-                "Sunday",
-                "Monday",
-                "Tuesday",
-                "Wednesday",
-                "Thursday",
-                "Friday",
-                "Saturday",
-            };
-
-        Console.WriteLine(days[0]);
-        Console.WriteLine(days[1]);
-        Console.WriteLine(days[2]);
-
-        string[] daysNew;
-        daysNew = new string[7];
-        daysNew[0] = "Sunday";
-        daysNew[1] = "Moday";
-        daysNew[2] = "Tuesday";
-        Console.Write(daysNew[0]);
-        Console.Write(daysNew[1]);
-        Console.Write(daysNew[2]);
-        Console.WriteLine();
-
-        int length = daysNew.Length;
-        Console.WriteLine(length);
-
+            switch (theVal) {
+            case 50:
+                Console.WriteLine("theVal is 50");
+                break;
+            case 51:
+                Console.WriteLine("theVal is 51");
+                break;
+            }
         }
-    }
+    )
 }
